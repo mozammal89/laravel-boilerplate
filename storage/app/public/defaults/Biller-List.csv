@@ -1,0 +1,67 @@
+﻿HUTCH,HUTCH MOBILE,Hutch,Telco,Online,ATOB
+LKBEL,LANKA BELL,Lanka bell,Telco,Online,ATOB
+ATEL,AIRTEL-MOBILE,Airtel,Telco,Online,ATOB
+DBN,,Dialog HBB/CDMA,Telco,Online,ATOB
+DTV,,Dialog TV,Telco,Online,ATOB
+DBN,,Dialog WIMAX,Telco,Online,ATOB
+GSM,,Package Top-up,Telco,Online,ATOB
+CEB,CEB,Ceylon Electricity Board,Utility,Offline,AUBP
+LECO,LECO,Lanka Electricity Company,Utility,Offline,AUBP
+NWSDB,NWSDB,National Water Supply    ,Utility,Offline,AUBP
+AAF,AAF,Asia Asset Finance,Leasing & Finance ,Offline,AIMP
+ALCL,ALCL,Assetline Leasing,Leasing & Finance ,Online,AIMP
+AMF,AMF,Associate Motor Finance,Leasing & Finance ,Offline,AIMP
+ATPL,ATPL,Amana Takaful,Life Insurance,Offline,AIMP
+CTF,CTF,Dialog Finance,Leasing & Finance ,Offline,AIMP
+CDB,CDB,CDB,Leasing & Finance ,Offline,AIMP
+FFL,FINTREX,Fintrex Finance,Leasing & Finance ,Online,AIMP
+HNBF,HNB FINANCE,HNB Finance,Leasing & Finance ,Online,AIMP
+BMI2,BM_DEHIOWITA,Berendina Microfinance Institute,Leasing & Finance ,Offline,AIMP
+AIAL,AIA,AIA Insurance Loan,Leasing & Finance ,Online,AIMP
+CVIP,CEYLINCO_GENERAL_VIP,Ceylinco General VIP,General Insurance,Offline,AIMP
+SENFIN,SENKADAGALA FINANCE,Senkadagala Finance,,Online,AIMP
+COOPL,COOPLIFE,Cooplife,Life Insurance,Offline,AIMP
+SICL,SICL,Sanasa Life,General Insurance,Offline,AIMP
+AZGE,AZGE,Allianz General,General Insurance,Offline,AIMP
+AIAP,178558786,AIA Insurance Life,Life Insurance,Online,AIMP
+JICL,JICL,Janashakthi Life,Life Insurance,Online,AIMP
+LOLA,LOLC,LOLC Life Assurance,Life Insurance,Offline,AIMP
+AZLF,AZLF,Allianz Life,Life Insurance,Offline,AIMP
+HNBA,772303181,HNB Assurance,Life Insurance,Offline,AIMP
+UALP,UNION_ASSURANCE,Union Assurance,Life Insurance,Online,AIMP
+SLIL,SLIL,Sri Lanka Insurance,Life Insurance,Online,AIMP
+SLIFE,SLIFE,Softlogic Life,Life Insurance,Online,AIMP
+AINS,AINS,Arpico Insurance,Life Insurance,Offline,AIMP
+VFL,VFL,Vision Fund Lanka,Loan,Offline,AIMP
+CHSL,CEYLINCO_HEALTH,Ceylinco Health,Healthcare,Offline,AIMP
+WMNO,WALAWAMAWNADEE,Walawa maw nade,Payment Collections,Offline,AIMP
+ZM,SERANDIB,Serendib Technologies,Payment Collections,Offline,AIMP
+BTTB,BTTB,Back To The Bible Broadcast Ceylon,Donations,Offline,AIMP
+CASL,CASL,Institute of Chartered Accountants of Sri Lanka,Payment Collections,Offline,AIMP
+ORCHID,ORCHID,ORCHID LANKA ENTERPRISES (PVT) LTD,Payment Collections,Offline,AIMP
+CHINA,CHINA,ChinaMarket.lk,,Offline,AIMP
+JTS,JTS,Jayamini Transport,,Offline,AIMP
+IEXAM,IEXAM,iexam.lk,,Offline,AIMP
+FLCF,FLCF,Friends Lanka Child Foundation,,Offline,AIMP
+HWDS,HWDS,Hot Wheels Delivery Service,,Offline,AIMP
+LESI,LESI,Lesipay,,Online,AIMP
+ITUK,ITUK,Itukama,,Offline,AIMP
+DRKT,DRKT,Dorakodata,,Offline,AIMP
+SUP,SUP,Supremepay(Pvt) Limited (Financial Institute),,Offline,AIMP
+SJC,SJC,SJC_RECOVERY,,Offline,AIMP
+LKD,LKD,Lakderana Investment,,Offline,AIMP
+HNBF,HNB Finance,HNB Finance,,Online,AIMP
+ALS,ALS,Asiri hospitals,,Offline,AIMP
+LBN,LBN,LANKA_BROADBAND,,Offline,AIMP
+LTL,LTL,Lendtech Lanka (PVT),,Offline,AIMP
+SCSC,SCSC,Sumeda Cellular Serv,,Offline,AIMP
+LH,LH,SL-Paediatricians,,Offline,AIMP
+PETS,PETS,National cancer hosp,,Offline,AIMP
+HASL,HASL,Help Age,,Offline,AIMP
+HU08,HU08,SANDEEPANI COMM,,Offline,AIMP
+HU48,HU48,Sandeepani Com,,Offline,AIMP
+HU20,HU20,BUDDHIKA COMM,,Offline,AIMP
+JICG,JICG,Janashakthi Insurance,,Offline,AIMP
+AIAL,AIAL,AIA Insurance Loan,,Online,AIMP
+ONCD,ONCD,Oncredit (Pvt) Ltd,,Offline,AIMP
+SAM,SAM,Softlogic Asset Management (Pvt) Ltd,,Offline,AIMP
